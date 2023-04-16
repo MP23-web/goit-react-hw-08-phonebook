@@ -1,0 +1,31 @@
+.header {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .navWrapper {
+    display: flex;
+  }
+  
+  .home,
+  .link {
+    text-decoration: none;
+    padding: 10px;
+    margin: 2px;
+    border: 1px solid #202020;
+    border-radius: 3px;
+    color: #202020;
+  }
+  
+  .home:focus, 
+  .home:hover {
+    background-color: #0e2248;
+    color: #fff;
+  }
+  
+  .link:focus,
+  .link:hover {
+    background-color: #0e2248;
+    color: #fff;
+  }

@@ -1,0 +1,17 @@
+.menu {
+    position: fixed;
+    top: 0;
+    right: 0;
+    margin: 15px;
+    width: 200px;
+    border: 1px solid #202020;
+    border-radius: 3px;
+    padding: 10px;
+  }
+  .name {
+    margin-bottom: 10px;
+    font-size: large;
+  }
+  .btn {
+    width: 90%;
+  }
